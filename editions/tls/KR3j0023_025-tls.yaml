@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0023/tls/v1/juan/25
+seq: 25
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商賈商賈何謂也商之為言商商其遠近度其有亡通四方之物故謂之商也賈之為言固固有其其有用之物以待民來以求其利者也行曰商止曰賈易曰先王以至日閉關商旅不行后不省方論語曰沽之哉我待價者也即如是尚書曰肇牽車牛遠服賈用方言遠行可知也方言欽厥父母欲留供養之也
+  hash: sha256:953ca660c0682fc1ece57ed3b6db02448c56e1c940290e8c4b7baee37d7a741c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3j0023_tls_025-1a.1-h}
+metadata:
+  title: 白虎通
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0023.xml
+hash: sha256:2099b6a367883e636cccaf3e0841567bd4547a2e7d330cb007fdaebe9bb06af8

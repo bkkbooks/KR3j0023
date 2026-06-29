@@ -1,0 +1,577 @@
+canonical_identifier: bkk:krp/KR3j0023/tls/v1
+canonical_location: https://kanripo.org/bkk/KR3j0023/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 白虎通
+  identifiers:
+    krp: KR3j0023
+  tags:
+    kr-categories: KR3j
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0023.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR3j0023_001-tls.yaml, hash: 'sha256:2730c40133aa80aaf20611dcfbde4795ba1336694cee76d8f7eb8fbc39aef0b1'}
+  - {seq: 2, filename: KR3j0023_002-tls.yaml, hash: 'sha256:9fed8f316fb8d7442e21e72337dce9fb25d5640b7b8437c54ecc70ed8113dee1'}
+  - {seq: 3, filename: KR3j0023_003-tls.yaml, hash: 'sha256:58d946742c31c6f73f2191f76fd1d73a5493b3af5bfa5462a44cd948f7dbc987'}
+  - {seq: 4, filename: KR3j0023_004-tls.yaml, hash: 'sha256:971ad12a9817217608d031bbf31ec03530e28a567bee430ae7624880017caaa1'}
+  - {seq: 5, filename: KR3j0023_005-tls.yaml, hash: 'sha256:5caf49a719cccba59d32a2ea840b3a5b8374248ab5f617d9ceef82e8941c0587'}
+  - {seq: 6, filename: KR3j0023_006-tls.yaml, hash: 'sha256:c97aff75b2eaa7836bd08a8a010aec7714aa92bfe026a46ab015aac32befa52a'}
+  - {seq: 7, filename: KR3j0023_007-tls.yaml, hash: 'sha256:4a699240a318c37e81e16fd1e9a690f73185fa5ce8af1cfd390970ae65bd6bd2'}
+  - {seq: 8, filename: KR3j0023_008-tls.yaml, hash: 'sha256:68d39b93f8745c74f8920bde274d5d07968758548cb9df0ba3a78b7507288a6b'}
+  - {seq: 9, filename: KR3j0023_009-tls.yaml, hash: 'sha256:5d2369093ce3986bdd390a94f7628d0a93cf321c8dc1240613c47aa81d57934d'}
+  - {seq: 10, filename: KR3j0023_010-tls.yaml, hash: 'sha256:5dcceb10805bebef4ae7a9418e7f02410e6fe8a5ba6fbbac3155fb0635fa064c'}
+  - {seq: 11, filename: KR3j0023_011-tls.yaml, hash: 'sha256:613864ced495bb91fd14e85948916c72b91203e70214e3d9b52f5fd64a4b5f5d'}
+  - {seq: 12, filename: KR3j0023_012-tls.yaml, hash: 'sha256:f3f89f2c93d7fc4762947cc9d94dd104e868e06d437f85b6d58d28edae52bd0f'}
+  - {seq: 13, filename: KR3j0023_013-tls.yaml, hash: 'sha256:21b186906c0760b2d9a47afd56e45024a628c02ba51383ac35ab8eb814277ff4'}
+  - {seq: 14, filename: KR3j0023_014-tls.yaml, hash: 'sha256:d055ce17a843b1255f07e5b3202ba55d7d88858630e66d0d89b3a8e4aa39ca6b'}
+  - {seq: 15, filename: KR3j0023_015-tls.yaml, hash: 'sha256:964855bbc103e4c5234049584cbde811f5521748c145e6711323522c2f1b524f'}
+  - {seq: 16, filename: KR3j0023_016-tls.yaml, hash: 'sha256:b9bde4d879329e40df2018cb795ab95aabe8ef047fad1c53a5985e2297580bdb'}
+  - {seq: 17, filename: KR3j0023_017-tls.yaml, hash: 'sha256:637b679732a06d03cd0076495eca70b79ed926b3a7d1b94955a2d09190a1ee19'}
+  - {seq: 18, filename: KR3j0023_018-tls.yaml, hash: 'sha256:b81fa1c49ca3b865f29ab7b4a32182b4c795a687cd94822324e0f86f9fe54faf'}
+  - {seq: 19, filename: KR3j0023_019-tls.yaml, hash: 'sha256:e6157f15ef7dc2bd5e1314da4dae682ab466dcdd67311da8f34de4685c773c2b'}
+  - {seq: 20, filename: KR3j0023_020-tls.yaml, hash: 'sha256:419a259e83d4b1845e4050f166734928f49aa1dd59bd0aaaa869e8459090b5a0'}
+  - {seq: 21, filename: KR3j0023_021-tls.yaml, hash: 'sha256:e80c1dce9e2ee9f6d412e244a5b95d16c7da271684cf5f031416ffe158f2784d'}
+  - {seq: 22, filename: KR3j0023_022-tls.yaml, hash: 'sha256:e124b5a8a4e910a9214cee2646c10a5f740432878ae23300ee1af1fc28110917'}
+  - {seq: 23, filename: KR3j0023_023-tls.yaml, hash: 'sha256:746a6381942b719fb75d7ccdd62052921a6ad634e812345c072d51ccbcb4a89c'}
+  - {seq: 24, filename: KR3j0023_024-tls.yaml, hash: 'sha256:a0829a5737633a1be2bfc9429747438a4cd676c060981f0e359056dd7d7a8edc'}
+  - {seq: 25, filename: KR3j0023_025-tls.yaml, hash: 'sha256:2099b6a367883e636cccaf3e0841567bd4547a2e7d330cb007fdaebe9bb06af8'}
+  - {seq: 26, filename: KR3j0023_026-tls.yaml, hash: 'sha256:a2a850be61be4a54ecd88ad7121b6c25843d7d366e2417ceec43e07f848b7df3'}
+  - {seq: 27, filename: KR3j0023_027-tls.yaml, hash: 'sha256:328081573cec3e96df1741529f69e530750ebf01df33d6509c0abc846328bbaa'}
+  - {seq: 26, filename: KR3j0023_026-tls.yaml, hash: 'sha256:c07c1bbb3265d153a8a6c9ca0702224940f8eb35d1ab135ef6279ad5202f535e'}
+  - {seq: 27, filename: KR3j0023_027-tls.yaml, hash: 'sha256:6dac5cb1db5c7e23f519d4cbf2f417d548e1e9752f6611a4779566c02a8a4d99'}
+  - {seq: 28, filename: KR3j0023_028-tls.yaml, hash: 'sha256:349ad35a69b07606b739ade282a86ba78c0f37cef6b75a0aa5865ab82ce9c3df'}
+  - {seq: 29, filename: KR3j0023_029-tls.yaml, hash: 'sha256:811300bf12463fc971985308417c2fc1dd34c9720e5361c03154efe8fa8769b8'}
+  - {seq: 30, filename: KR3j0023_030-tls.yaml, hash: 'sha256:39bf5b45eb730c942cad5e326cf191c7d758bb759b7f336fa08ac40f72061c32'}
+  - {seq: 31, filename: KR3j0023_031-tls.yaml, hash: 'sha256:f5d78a255a3107382dc4baf821a97f6d60b0b4447fd6b93a2cf55b2e1898ca45'}
+  - {seq: 32, filename: KR3j0023_032-tls.yaml, hash: 'sha256:f632a0820205a6cc395565a9a105d53e251383369029e67c27f64ceda232f43a'}
+  - {seq: 33, filename: KR3j0023_033-tls.yaml, hash: 'sha256:9aee2dabef4efdc0f2b95a64c3abdbf989c2563ffcda349ff1b4aa46400571d0'}
+  - {seq: 34, filename: KR3j0023_034-tls.yaml, hash: 'sha256:0c3907778c66992d8dcaf3ad0d5e4200d4381f72fda110b3afc7aefca92f88d2'}
+  - {seq: 35, filename: KR3j0023_035-tls.yaml, hash: 'sha256:0dcacad5204d0d024d628426f2b3de0b5304dfa80962a2580eb02f9e8d686731'}
+  - {seq: 36, filename: KR3j0023_036-tls.yaml, hash: 'sha256:1b8a51f34c3ba7f5451fc35ab3831e19c546fdca6e573ae5833fb8303301f253'}
+  - {seq: 37, filename: KR3j0023_037-tls.yaml, hash: 'sha256:18cb1932d6fe869948a738941286584c15f94cd702c50e96a3b26fd0c3f2df98'}
+  - {seq: 38, filename: KR3j0023_038-tls.yaml, hash: 'sha256:f369ec6a03bda1d7bbd35bc2576e242f49560a5a7080419184712d51549fdbf4'}
+  - {seq: 39, filename: KR3j0023_039-tls.yaml, hash: 'sha256:b9622cd736acde21ba61338fa281b958e879fb00b98bea4319020242a13e5682'}
+  - {seq: 40, filename: KR3j0023_040-tls.yaml, hash: 'sha256:cf4dcc71b1b9e71704a25616c4681bb3e153427c3a5c6f13ccaa34dc0f533844'}
+  - {seq: 41, filename: KR3j0023_041-tls.yaml, hash: 'sha256:b6de35da637497607172bbd9ff6a63eb0b946b7dac0208886f6573daec0c22c4'}
+  - {seq: 42, filename: KR3j0023_042-tls.yaml, hash: 'sha256:6916e64b95e76e327886cad9d390fdd8d56d9005143b2c5337a52636e5502882'}
+  - {seq: 43, filename: KR3j0023_043-tls.yaml, hash: 'sha256:e7323e1718587c3f12ecb2d621940f7f4e9df87c8712f1a8554cc9e754eccb43'}
+  - {seq: 44, filename: KR3j0023_044-tls.yaml, hash: 'sha256:c7b4f41fd3f911c3057348764761c2b8835bbea4ee4751b3ab12259c8f3e8a25'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3j0023_001-tls.markers.yaml, hash: 'sha256:bc55c3df2a1096a39ca16c1df9fc98f21bda46105d8dc8b8d61ccb0542fd1076'}
+  - {seq: 2, role: markers, filename: assets/KR3j0023_002-tls.markers.yaml, hash: 'sha256:046f87a8818f0667c68e025cfcdc2233c3b27141a1e4798a3d74305b5b24a49f'}
+  - {seq: 3, role: markers, filename: assets/KR3j0023_003-tls.markers.yaml, hash: 'sha256:b8a7901da35281bbcf33872c453f0a9ad23acda22d8b0ccb897f2e20de14d41b'}
+  - {seq: 4, role: markers, filename: assets/KR3j0023_004-tls.markers.yaml, hash: 'sha256:0ff06dd4bbb851e9a82d0bc51330d825f165e4e2adff66f54e15aaff562e1e5f'}
+  - {seq: 5, role: markers, filename: assets/KR3j0023_005-tls.markers.yaml, hash: 'sha256:a5a8db0e44652eeb097f5296f21265e71dc339c64eccc20e6bbd99226dfdb71e'}
+  - {seq: 6, role: markers, filename: assets/KR3j0023_006-tls.markers.yaml, hash: 'sha256:9b2201763ac4689a93c34c8ebcc0baae66a1d78844061a1d6a7db20e68761895'}
+  - {seq: 7, role: markers, filename: assets/KR3j0023_007-tls.markers.yaml, hash: 'sha256:24692e03fe29497692f9aefd1c2f995df9f78e956f473facedf4b1629998402a'}
+  - {seq: 8, role: markers, filename: assets/KR3j0023_008-tls.markers.yaml, hash: 'sha256:e6e075e6e3e9ba0cc442a8c5c8b419a6797d2bb456cbac167cd0df677072e868'}
+  - {seq: 9, role: markers, filename: assets/KR3j0023_009-tls.markers.yaml, hash: 'sha256:5304d26337a8c4db1048438c5281d0d4d236005ccf5810cc1ca2a1621be30019'}
+  - {seq: 10, role: markers, filename: assets/KR3j0023_010-tls.markers.yaml, hash: 'sha256:460cb5e668751a98435ec5dea3164de88d41da561cbf1fa2e38adb16823e2bab'}
+  - {seq: 11, role: markers, filename: assets/KR3j0023_011-tls.markers.yaml, hash: 'sha256:73382ba8733c8d64267825ad57c4d556238c70a6a824dd5803e47db56e4bb2f5'}
+  - {seq: 12, role: markers, filename: assets/KR3j0023_012-tls.markers.yaml, hash: 'sha256:8882dacf3c1c96945d4e8902892ba4a6c590392bf8f12aeb8a5a42b959529805'}
+  - {seq: 13, role: markers, filename: assets/KR3j0023_013-tls.markers.yaml, hash: 'sha256:fcea734c26e57692487bb95b65a0b295a32c6ae0f3aa2789e7d1cf71ac50d6ff'}
+  - {seq: 14, role: markers, filename: assets/KR3j0023_014-tls.markers.yaml, hash: 'sha256:b839e3654707d0584b7ca322ca6f47b56445f042b2baab445ea960014b58868a'}
+  - {seq: 15, role: markers, filename: assets/KR3j0023_015-tls.markers.yaml, hash: 'sha256:f297da3defeab58c878ffacef259aff829a650b3cb1e2a9b8d088443d612c58c'}
+  - {seq: 16, role: markers, filename: assets/KR3j0023_016-tls.markers.yaml, hash: 'sha256:3220e64079f30d6190300c686dccfdb2bde9b41e1ca2c36eb15fd3cf57273253'}
+  - {seq: 17, role: markers, filename: assets/KR3j0023_017-tls.markers.yaml, hash: 'sha256:58c73e7f2ee81a6a002c076d149c8140265a4f290907f1ccbe9e89040c7cd2a3'}
+  - {seq: 18, role: markers, filename: assets/KR3j0023_018-tls.markers.yaml, hash: 'sha256:c83285ef4a327c7fbef8677b29b8d42b2ac493490bb5c0a50e686614af8492a6'}
+  - {seq: 19, role: markers, filename: assets/KR3j0023_019-tls.markers.yaml, hash: 'sha256:d600c7d9f6cc77ca59dd555af74f38ef949a99e4a4dc76570e3c7c0d3c5f9048'}
+  - {seq: 20, role: markers, filename: assets/KR3j0023_020-tls.markers.yaml, hash: 'sha256:ca463206d6725ed94892a2b418679ac511d0328e941583ebe11ecbd242846bf6'}
+  - {seq: 21, role: markers, filename: assets/KR3j0023_021-tls.markers.yaml, hash: 'sha256:5699f2a5cbb143c8dabe225527140f2e9a69e1a0d97c0e53dffc6ab02baab689'}
+  - {seq: 22, role: markers, filename: assets/KR3j0023_022-tls.markers.yaml, hash: 'sha256:85731c423de615f568cd6ad2d6510dad61704d71c440f94cab98d3199a8f0476'}
+  - {seq: 23, role: markers, filename: assets/KR3j0023_023-tls.markers.yaml, hash: 'sha256:f49f007fbdac152bc01821d777e0f308a063b0ea1765617f7832fcdda71048e1'}
+  - {seq: 24, role: markers, filename: assets/KR3j0023_024-tls.markers.yaml, hash: 'sha256:6cb160a873bfdaade1da8a2b1b43d90ed8b780bf5a06036724952242c29f11f1'}
+  - {seq: 25, role: markers, filename: assets/KR3j0023_025-tls.markers.yaml, hash: 'sha256:2ed1653c7b2893e6a59130e05db04916f15e1c7e50d328084ee3886bc780702c'}
+  - {seq: 26, role: markers, filename: assets/KR3j0023_026-tls.markers.yaml, hash: 'sha256:cf29687ab1464098422ebd822f4b889afb50fec307e6f468474ee5985a0f9845'}
+  - {seq: 27, role: markers, filename: assets/KR3j0023_027-tls.markers.yaml, hash: 'sha256:48adc57ac62f8db205cb5412b596133c6a03ff0e4dbf7f92e16b9d79e6baeaec'}
+  - {seq: 26, role: markers, filename: assets/KR3j0023_026-tls.markers.yaml, hash: 'sha256:cf29687ab1464098422ebd822f4b889afb50fec307e6f468474ee5985a0f9845'}
+  - {seq: 27, role: markers, filename: assets/KR3j0023_027-tls.markers.yaml, hash: 'sha256:48adc57ac62f8db205cb5412b596133c6a03ff0e4dbf7f92e16b9d79e6baeaec'}
+  - {seq: 28, role: markers, filename: assets/KR3j0023_028-tls.markers.yaml, hash: 'sha256:067436ac3975cc3d5713f875f5590660286aed556a13bce01914497f200d8a4a'}
+  - {seq: 29, role: markers, filename: assets/KR3j0023_029-tls.markers.yaml, hash: 'sha256:e39a7e7ca87ff5aef2fd262aefef283317e5e6d8cf91215e31cbd0c560ed8208'}
+  - {seq: 30, role: markers, filename: assets/KR3j0023_030-tls.markers.yaml, hash: 'sha256:0b20743013ebe93c8487d0703fce851a9f9e31f46c01354ae4d22f1d4dd9b01f'}
+  - {seq: 31, role: markers, filename: assets/KR3j0023_031-tls.markers.yaml, hash: 'sha256:bed2362395810fa763c91ca8b90dd6e3059294c8a1c4c3d072d3080252260f48'}
+  - {seq: 32, role: markers, filename: assets/KR3j0023_032-tls.markers.yaml, hash: 'sha256:46faeb9e484c90708f8717d6368bec325f52f8502a41233715452e36a630f883'}
+  - {seq: 33, role: markers, filename: assets/KR3j0023_033-tls.markers.yaml, hash: 'sha256:8a150d2ffc07c4b437390406832777d529059e15b910e6f86b2e2b415cdc8793'}
+  - {seq: 34, role: markers, filename: assets/KR3j0023_034-tls.markers.yaml, hash: 'sha256:45fbd1e30fabb5348d3f3701b31780e78d465a3a324a279ba01705aa1687fe58'}
+  - {seq: 35, role: markers, filename: assets/KR3j0023_035-tls.markers.yaml, hash: 'sha256:111baa754e2c855a688694092e5c2e22e0a456381567d0e1b9021a6edbd4ef84'}
+  - {seq: 36, role: markers, filename: assets/KR3j0023_036-tls.markers.yaml, hash: 'sha256:69ebe13b3a225cecffaf63f87282ac6c96a913297e3a72329c3e42b9dc47d27c'}
+  - {seq: 37, role: markers, filename: assets/KR3j0023_037-tls.markers.yaml, hash: 'sha256:413d66b89c9e41da6f726980b5dc1c5427e7706d03b807de29e0231e6c770482'}
+  - {seq: 38, role: markers, filename: assets/KR3j0023_038-tls.markers.yaml, hash: 'sha256:6543e79332483ee46ef472a4436718464dcdd85b33527f0b00425017ad81ee24'}
+  - {seq: 39, role: markers, filename: assets/KR3j0023_039-tls.markers.yaml, hash: 'sha256:f8604ef8f6ee9009a310aa1a08cfdab8483b74c6ae8acdfa564271442988bb36'}
+  - {seq: 40, role: markers, filename: assets/KR3j0023_040-tls.markers.yaml, hash: 'sha256:554c17bbd05b80d33a17bd5ea353af5e9bc4a65f93f8e9e08492c5c68bc7d7cb'}
+  - {seq: 41, role: markers, filename: assets/KR3j0023_041-tls.markers.yaml, hash: 'sha256:e3471432c474bcfec6663b5318ddcd35dd6fca2344032246f414afb725627f2a'}
+  - {seq: 42, role: markers, filename: assets/KR3j0023_042-tls.markers.yaml, hash: 'sha256:d17f564f73a69f3e8108a0b60279a24de3de963f529b6654f559d819881f49ea'}
+  - {seq: 43, role: markers, filename: assets/KR3j0023_043-tls.markers.yaml, hash: 'sha256:0394bccc0b42b8c64e7dcb679d0517ab9cb314973a5d08e82504e98eb28fbc10'}
+  - {seq: 44, role: markers, filename: assets/KR3j0023_044-tls.markers.yaml, hash: 'sha256:7eac3be960f8a4d21ec5dbc70d1453693ced0e90c788aa69e5b196ea523ce0fb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3j0023_tls_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 2436
+  label: 爵
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0023_tls_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 1901
+  label: 號
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0023_tls_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 900
+  label: 謚
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0023_tls_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 474
+  label: 五祀
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3j0023_tls_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 951
+  label: 社稷
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3j0023_tls_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 3401
+  label: 禮樂
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3j0023_tls_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 2065
+  label: 封公侯
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3j0023_tls_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 580
+  label: 京師
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0023_tls_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 3118
+  label: 五行
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3j0023_tls_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 1111
+  label: 三軍
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3j0023_tls_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 1150
+  label: 誅伐
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3j0023_tls_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 1683
+  label: 諫諍
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3j0023_tls_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 748
+  label: 鄉射
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3j0023_tls_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 292
+  label: 致仕
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3j0023_tls_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 1050
+  label: 辟雍
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3j0023_tls_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 482
+  label: 災變
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3j0023_tls_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 141
+  label: 耕桑
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3j0023_tls_018-1a.1-h
+    span:
+    - body
+    - 0
+    - 1014
+  label: 封禪
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3j0023_tls_019-1a.1-h
+    span:
+    - body
+    - 0
+    - 1125
+  label: 巡狩
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3j0023_tls_020-1a.1-h
+    span:
+    - body
+    - 0
+    - 1906
+  label: 考黜
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3j0023_tls_021-1a.1-h
+    span:
+    - body
+    - 0
+    - 847
+  label: 王者不臣
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3j0023_tls_022-1a.1-h
+    span:
+    - body
+    - 0
+    - 542
+  label: 蓍龜
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3j0023_tls_023-1a.1-h
+    span:
+    - body
+    - 0
+    - 611
+  label: 聖人
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3j0023_tls_024-1a.1-h
+    span:
+    - body
+    - 0
+    - 330
+  label: 八風
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR3j0023_tls_025-1a.1-h
+    span:
+    - body
+    - 0
+    - 120
+  label: 商賈
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR3j0023_tls_026-1a.1-h
+    span:
+    - body
+    - 0
+    - 1475
+  label: 文質
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR3j0023_tls_027-1a.1-h
+    span:
+    - body
+    - 0
+    - 106
+  label: 三正
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR3j0023_tls_027-1a.1-h
+    span:
+    - body
+    - 0
+    - 34
+  label: 三正
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR3j0023_tls_027-1a.1-h
+    span:
+    - body
+    - 0
+    - 889
+  label: 三正
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR3j0023_tls_028-1a.1-h
+    span:
+    - body
+    - 0
+    - 556
+  label: 三教
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR3j0023_tls_029-1a.1-h
+    span:
+    - body
+    - 0
+    - 822
+  label: 三綱六紀
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR3j0023_tls_030-1a.1-h
+    span:
+    - body
+    - 0
+    - 1189
+  label: 情性
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR3j0023_tls_031-1a.1-h
+    span:
+    - body
+    - 0
+    - 252
+  label: 壽命
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR3j0023_tls_032-1a.1-h
+    span:
+    - body
+    - 0
+    - 587
+  label: 宗族
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR3j0023_tls_033-1a.1-h
+    span:
+    - body
+    - 0
+    - 1821
+  label: 姓名
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR3j0023_tls_034-1a.1-h
+    span:
+    - body
+    - 0
+    - 293
+  label: 天地
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR3j0023_tls_035-1a.1-h
+    span:
+    - body
+    - 0
+    - 478
+  label: 日月
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR3j0023_tls_036-1a.1-h
+    span:
+    - body
+    - 0
+    - 319
+  label: 四時
+  type: section
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR3j0023_tls_037-1a.1-h
+    span:
+    - body
+    - 0
+    - 360
+  label: 衣裳
+  type: section
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR3j0023_tls_038-1a.1-h
+    span:
+    - body
+    - 0
+    - 364
+  label: 五刑
+  type: section
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR3j0023_tls_039-1a.1-h
+    span:
+    - body
+    - 0
+    - 547
+  label: 五經
+  type: section
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR3j0023_tls_040-1a.1-h
+    span:
+    - body
+    - 0
+    - 3305
+  label: 嫁娶
+  type: section
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR3j0023_tls_041-1a.1-h
+    span:
+    - body
+    - 0
+    - 965
+  label: 紼冕
+  type: section
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR3j0023_tls_042-1a.1-h
+    span:
+    - body
+    - 0
+    - 2076
+  label: 喪服
+  type: section
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR3j0023_tls_043-1a.1-h
+    span:
+    - body
+    - 0
+    - 2305
+  label: 崩薨
+  type: section
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR3j0023_tls_044-1a.1-h
+    span:
+    - body
+    - 0
+    - 2333
+  label: 陳立疏證收錄莊述祖所補闕文
+  type: section
+  level: 1
+hash: sha256:60ee22ff138876f55cf0b4e0ac3f56b53edb5a188359cc0444498587b2b26303

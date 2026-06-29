@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3j0023/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大夫以鴈為贄者取其飛成行列大夫職在以奉命之適四方動作當能自正以事君也大夫以鴈為贄者取其飛成行列大夫職在以奉命之適四方動作當能自正以事君也
+  hash: sha256:c10a60b077229465d8ea7646da06f56f389dbe7f92e8a9c953233187416d9d47
+metadata:
+  title: 白虎通
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0023.xml
+hash: sha256:53cd70e8b7cf6d7fd92466c82d197a16c09a9cb357bfa70dbf911e4761c6481e

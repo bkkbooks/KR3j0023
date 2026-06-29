@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0023/tls/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 耕桑王者所以親耕后親桑何以率天下農蠶也天子親耕以供郊廟之祭后之后親桑以供祭服祭義曰天子三推三公五推卿大夫士七推耕於東郊何東方少陽農事始起桑於西郊何西方少陰女功所成故曾子問曰天子耕東田而三反之周官曰后親桑率外內命婦蠶於北郊禮祭義曰古者天子諸侯必有公桑蠶室近外水為之築周宮棘晹茈閉之者也
+  hash: sha256:3f661f25a744f30486bf6654734dc2a7805a07a4ee02db32f01a139d193c4f1e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3j0023_tls_017-1a.1-h}
+metadata:
+  title: 白虎通
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0023.xml
+hash: sha256:637b679732a06d03cd0076495eca70b79ed926b3a7d1b94955a2d09190a1ee19

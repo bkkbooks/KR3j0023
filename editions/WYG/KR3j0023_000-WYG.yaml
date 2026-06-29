@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0023/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上
+  hash: sha256:db5ba671d244ee8284613c31e1b8438429651df48ea566ff5158f1e58fb20114
+metadata:
+  title: 白虎通德論
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 03:58:50.535297'
+  source:
+    repository: kanripo
+    path: KR3j0023/KR3j0023_000.txt
+hash: sha256:c91e54e13ed45caf6a66abfea5f4454807bfd2585224c7144e683ca4ab5cb449
