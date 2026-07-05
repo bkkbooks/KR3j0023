@@ -172,7 +172,6 @@ markers:
   - {type: variant, offset: 162, length: 2, content: 師眾, krp: 府者爲藏宫府也故禮運記曰六情所以扶成五性也胃者脾之府也脾主禀氣胃者榖之委也故脾禀氣也膀胱者腎之府也腎者主瀉膀胱常能有熱故先决難也三焦者包絡府也水榖之道路氣之所終始也故上焦若竅中焦若編下焦若瀆膽者肝之府也肝者木之精也主仁仁者不忍故以膽斷也是以肝膽二者必有勇也肝膽異趣何以知相爲府也肝者木之精也木之爲言牧也人怒無不色青目脤張者是其効也小腸大腸心肺府也主禮義禮義者有分理腸之大小相承受也腸爲心肺主心爲皮體主故爲兩府也目爲心視口爲心談耳爲心聽鼻爲心嗅是其支體主也喜在西方怒在東方好在北方惡在南方哀在下樂在上何以西方萬物之成故喜東方萬物之生故怒北方陽氣始施故好南方隂氣始起故惡上多樂下多哀也魂魄者何謂魂猶伝伝也行不休於外也主於情魄者迫然著人主於性也魂者芸也情以除穢魄者白也性以治内精神者何謂也精者静也太隂施化之氣也象火之化任生也神者恍惚太隂之氣也間棇云支體萬化之本也壽命命者何謂也人之壽}
   - {type: punctuation, offset: 163, content: 、, id: KR3j0023_tls_008-bkkpn54}
   - {type: 'tls:seg', offset: 163, content: '', id: KR3j0023_tls_008-369a.7}
-  - {type: substitution, offset: 163, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 165, content: 。, id: KR3j0023_tls_008-bkkpn55}
   - {type: xml-element, offset: 165, content: '', id: KR3j0023_tls_008-bkkxmlele10}
   - {type: xml-element, offset: 165, content: '', id: KR3j0023_tls_008-bkkxmlele11}
@@ -207,7 +206,6 @@ markers:
   - {type: variant, offset: 171, length: 0, content: '', WYG: 必有宗何也所以長和睦也}
   - {type: variant, offset: 171, length: 2, content: 大眾, krp: 甲乙爲名也名或兼或單何示非一也或聽其聲以律定其名或依事旁其形故名或兼或單也依其事者若后稷是也弃之因名之爲弃也旁其形者孔子首類魯國尼丘山故名爲丘或旁其名爲之字者聞名即知其字聞字即知其名若名賜字子貢名鯉字伯魚春秋譏二名何所以譏者乃謂其無常者也若乍爲名禄甫元}
   - {type: variant, offset: 172, length: 2, content: 眾言, WYG: 宗能率小宗小宗能率羣弟通於有無所以紀理族人者也宗其為始祖後者為大宗此百世}
-  - {type: substitution, offset: 172, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: variant, offset: 174, length: 7, content: 之明什倍諸侯法, SBCK: 武庚名不以}
   - {type: variant, offset: 174, length: 7, content: 之明什倍諸侯法, krp: 武庚名不以}
   - {type: punctuation, offset: 175, content: 。, id: KR3j0023_tls_008-bkkpn57}
@@ -347,7 +345,6 @@ markers:
   - {type: punctuation, offset: 242, content: 、, id: KR3j0023_tls_008-bkkpn92}
   - {type: 'tls:seg', offset: 242, content: '', id: KR3j0023_tls_008-373a.2}
   - {type: variant, offset: 242, length: 1, content: 錄, WYG: 母之父母一族}
-  - {type: substitution, offset: 242, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 244, content: ，, id: KR3j0023_tls_008-bkkpn93}
   - {type: 'tls:seg', offset: 244, content: '', id: KR3j0023_tls_008-373a.3}
   - {type: variant, offset: 244, length: 1, content: 上, SBCK: 明消更生故言朔日晝見夜藏有朝夕故言朝也衣裳聖人所}
@@ -355,13 +352,11 @@ markers:
   - {type: variant, offset: 244, length: 1, content: 上, krp: 明消更生故言朔日晝見夜藏有朝夕故言朝也衣裳聖人所}
   - {type: variant, offset: 246, length: 5, content: 敬錄接下下, SBCK: 制衣服何以爲絺􅗽蔽形表德勸善别尊卑也所}
   - {type: variant, offset: 246, length: 5, content: 敬錄接下下, krp: 制衣服何以爲絺絺巾蔽形表德勸善别尊卑也所}
-  - {type: substitution, offset: 247, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 250, content: ，, id: KR3j0023_tls_008-bkkpn94}
   - {type: 'tls:seg', offset: 250, content: '', id: KR3j0023_tls_008-373a.4}
   - {type: variant, offset: 253, length: 2, content: 錄謹, SBCK: 爲裳何衣者隱也裳者鄣也所}
   - {type: page-break, offset: 253, content: '', id: KR3j0023_SBCK_008-17a}
   - {type: variant, offset: 253, length: 2, content: 錄謹, krp: 爲裳何衣者隱也裳者鄣也所}
-  - {type: substitution, offset: 253, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: variant, offset: 256, length: 1, content: 事, SBCK: 隱形自鄣閉也易曰黃帝堯舜垂衣裳而天下治何以知}
   - {type: variant, offset: 256, length: 1, content: 事, krp: 隱形自鄣閉也易曰黃帝堯舜垂衣裳而天下治何以知}
   - {type: punctuation, offset: 258, content: 。, id: KR3j0023_tls_008-bkkpn95}
@@ -654,4 +649,4 @@ markers:
   - {type: punctuation, offset: 580, content: 。, id: KR3j0023_tls_008-bkkpn183}
   - {type: xml-element, offset: 580, content: '', id: KR3j0023_tls_008-bkkxmlele34}
   back: []
-hash: sha256:62312a7169addc1a2c1754ba557fde9e465229927bd9c9d17f73b57f41bd1922
+hash: sha256:9c5fee95aa3a75e01bdc34ff5172ed8297bac8321282e5ca45bfa0e2e90d0a22
