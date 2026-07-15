@@ -224,6 +224,7 @@ markers:
   - {type: variant, offset: 295, length: 5, content: 弁素幘何伐, SBCK: 以鹿皮}
   - {type: variant, offset: 295, length: 5, content: 弁素幘何伐, WYG: 以鹿皮}
   - {type: variant, offset: 295, length: 5, content: 弁素幘何伐, krp: 以鹿皮}
+  - {type: substitution, offset: 295, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20737}}
   - {type: punctuation, offset: 299, content: ？, id: KR3j0023_tls_010-bkkpn82}
   - {type: 'tls:seg', offset: 299, content: '', id: KR3j0023_tls_010-519a.3}
   - {type: variant, offset: 301, length: 8, content: 凶事素服示有悽愴, SBCK: 取其文章}
@@ -248,6 +249,7 @@ markers:
   - {type: punctuation, offset: 319, content: ：, id: KR3j0023_tls_010-bkkpn89}
   - {type: 'tls:seg', offset: 319, content: '', id: KR3j0023_tls_010-520a.2}
   - {type: punctuation, offset: 319, content: 「, id: KR3j0023_tls_010-bkkpn90}
+  - {type: substitution, offset: 323, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20737}}
   - {type: variant, offset: 325, length: 1, content: 幘, SBCK: 積裳也腰中辟積至質不易之}
   - {type: variant, offset: 325, length: 1, content: 幘, WYG: 積裳也腰中辟積至質不易之}
   - {type: page-break, offset: 325, content: '', id: KR3j0023_WYG_002-60b, image: WYG0850/WYG0850-0066b.png}
@@ -264,13 +266,16 @@ markers:
   - {type: page-break, offset: 328, content: '', id: KR3j0023_WYG_002-61a, image: WYG0850/WYG0850-0066c.png}
   - {type: variant, offset: 328, length: 8, content: 皮弁素幘又招虞人, krp: 牙萌大也収而逹故前忩大者在後時物}
   - {type: variant, offset: 329, length: 8, content: 弁素幘又招虞人亦, WYG: ''}
+  - {type: substitution, offset: 329, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20737}}
   - {type: punctuation, offset: 332, content: 。, id: KR3j0023_tls_010-bkkpn93}
   - {type: 'tls:seg', offset: 332, content: '', id: KR3j0023_tls_010-520a.4}
   - {type: variant, offset: 337, length: 32, content: 皮弁知伐亦皮弁王者將出辭於禰還格還格於祖禰者言子辭面之禮尊親之義, SBCK: 前忩}
   - {type: variant, offset: 337, length: 32, content: 皮弁知伐亦皮弁王者將出辭於禰還格還格於祖禰者言子辭面之禮尊親之義, krp: 前忩}
   - {type: variant, offset: 338, length: 25, content: 弁知伐亦皮弁王者將出辭於禰還格還格於祖禰者言子辭面, WYG: 乃太古未有禮文}
+  - {type: substitution, offset: 338, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20737}}
   - {type: punctuation, offset: 339, content: ，, id: KR3j0023_tls_010-bkkpn94}
   - {type: 'tls:seg', offset: 339, content: '', id: KR3j0023_tls_010-520a.5}
+  - {type: substitution, offset: 343, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20737}}
   - {type: punctuation, offset: 344, content: 。, id: KR3j0023_tls_010-bkkpn95}
   - {type: xml-element, offset: 344, content: '', id: KR3j0023_tls_010-bkkxmlele20}
   - {type: xml-element, offset: 344, content: '', id: KR3j0023_tls_010-bkkxmlele21}
@@ -440,6 +445,7 @@ markers:
   - {type: variant, offset: 589, length: 1, content: 予, SBCK: 麻冕禮也尚書王麻冕冕所以前後遂延者何示進賢退不能也垂旒者示不現邪纊塞耳示不聽䜛也故水清無魚人察無徒明不尚極知下故禮玉藻曰十有二旒前後遂延禮器曰天子麻冕朱緑藻􅂷十有二旒者法四時十二月也諸侯九旒大夫七旒士爵弁無旒委皃者何謂也周朝廷理政事行道德之冠名士冠經曰委皃周道章甫殷道母追夏后氏之道所以謂之委皃何周統十一月爲正萬物萌}
   - {type: page-break, offset: 589, content: '', id: KR3j0023_SBCK_010-3a}
   - {type: variant, offset: 589, length: 1, content: 予, krp: 麻冕禮也尚書王麻冕冕所以前後遂延者何示進賢退不能也垂旒者示不現邪纊塞耳示不聽䜛也故水清無魚人察無徒明不尚極知下故禮玉藻曰十有二旒前後遂延禮器曰天子麻冕朱緑藻垂十有二旒者法四時十二月也諸侯九旒大夫七旒士爵弁無旒委皃者何謂也周朝廷理政事行道德之冠名士冠經曰委皃周道章甫殷道母追夏后氏之道所以謂之委皃何周統十一月爲正萬物萌}
+  - {type: substitution, offset: 589, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: variant, offset: 591, length: 0, content: '', SBCK: 故爲冠飾最小故曰委貌委貌者委曲有貌也殷統十二月爲正其飾微大故曰章甫章甫者尚未與極其本相當也夏者統十三月爲正其飾最大故曰母追母追者言其追大也爵弁者周人宗廟之冠也禮郊特牲曰周弁士冠經曰周弁殷哻夏収爵何以知指謂其色又乍言爵弁乍但言弁周之冠色所以爵何爲周尚赤所以不純赤但如爵頭何以本制冠者法天天色玄者不失其質故周加赤殷加白夏之冠色純玄何以知殷加白也周加赤知殷加白也夏殷士冠不異何古質也以士冠禮知之䘮服諸侯爲天}
   - {type: page-break, offset: 591, content: '', id: KR3j0023_SBCK_010-3b}
   - {type: page-break, offset: 591, content: '', id: KR3j0023_SBCK_010-4a}
@@ -620,6 +626,7 @@ markers:
   - {type: punctuation, offset: 724, content: 「, id: KR3j0023_tls_010-bkkpn205}
   - {type: punctuation, offset: 724, content: （, id: KR3j0023_tls_010-bkkpn206}
   - {type: punctuation, offset: 725, content: ）, id: KR3j0023_tls_010-bkkpn207}
+  - {type: substitution, offset: 726, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 733, content: 。, id: KR3j0023_tls_010-bkkpn208}
   - {type: punctuation, offset: 733, content: 」, id: KR3j0023_tls_010-bkkpn209}
   - {type: 'tls:seg', offset: 733, content: '', id: KR3j0023_tls_010-531a.3}
@@ -830,6 +837,7 @@ markers:
   - {type: 'tls:seg', offset: 894, content: '', id: KR3j0023_tls_010-535a.4}
   - {type: variant, offset: 896, length: 25, content: 絕人嗣也師行不必反戰不必勝故須其有世嗣也年六十歸兵, SBCK: 朝而來奔䘮}
   - {type: variant, offset: 896, length: 25, content: 絕人嗣也師行不必反戰不必勝故須其有世嗣也年六十歸兵, krp: 朝而來奔䘮}
+  - {type: substitution, offset: 896, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 900, content: 。, id: KR3j0023_tls_010-bkkpn259}
   - {type: 'tls:seg', offset: 900, content: '', id: KR3j0023_tls_010-535a.5}
   - {type: punctuation, offset: 905, content: ，, id: KR3j0023_tls_010-bkkpn260}
@@ -1042,4 +1050,4 @@ markers:
   - {type: xml-element, offset: 1111, content: '', id: KR3j0023_tls_010-bkkxmlele64}
   - {type: page-break, offset: 1111, content: '', id: KR3j0023_SBCK_010-18a}
   back: []
-hash: sha256:30b5ac113a3c900ce7997d5122d0285ac3737fde4ba450a49ddfbdb91ed5aae4
+hash: sha256:6c868fd20486c3bf4278f46e57016df48425a7c4c13fcf6c21557cb02345f2c6
